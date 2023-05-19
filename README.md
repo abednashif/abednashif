@@ -1,6 +1,5 @@
-## 👋 Hi, I’m Abed Nashif
-- 🌱 I’m currently learning Computer engineering
-- 💬 Ask me about ANYTHING
+## 👋 Hi, I’m Abed Nashif, a brilliant Software Engineer 👨‍💻 
+💬 Ask me about ANYTHING
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abednashif&theme=tokyonight" alt="mystreak"/>
 <center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abednashif&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></center>
