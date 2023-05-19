@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Abed Nashif, a brilliant Software Engineer 👨‍💻 
+## Hi, I’m Abed Nashif, a brilliant Software Engineer 👨‍💻 
 💬 Ask me about ANYTHING
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abednashif&theme=tokyonight" alt="mystreak"/>
